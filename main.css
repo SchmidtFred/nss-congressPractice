@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+p {
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.repContentChunk {
+    padding: 20px 0px;
+    margin: 0;
+}
+
+.basicInfo {
+    background-color: rgba(207, 64, 64, 0.89);
+    text-align: center;
+    color: whitesmoke;
+}
+
+.committeesList {
+
+}
+
+.legislationList {
+    background-color: rgba(47, 47, 189, 0.89);
+    color: whitesmoke;
+}
